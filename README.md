@@ -27,13 +27,14 @@
 
 *2.* Para rodar a aplicação,pode-se utilizar uma extensão do vs code *Spring Boot Extesion Pack*
 
-![Texto alternativo](IMG_20241219_204105.jpg "Título opcional")
-
-<img src="IMG_20241219_204105.jpg" alt="Descrição da imagem" height="600">
+<img src="IMG_20241219_204105.jpg" alt="Descrição da imagem" height="500">
 
 
 *2.1* para iniciar o app
-![Texto alternativo](IMG_20241219_204434~2.jpg "Título opcional")
+
+<img src="IMG_20241219_204434~2.jpg" alt="Descrição da imagem" height="500">
+
+
 
 
 *3. Rotas da Aplicação:*
