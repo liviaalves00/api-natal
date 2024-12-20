@@ -11,3 +11,37 @@
 -deploy
 -autenticação/autorização
 -aplicar método shuffle no sorteio
+
+
+
+### como executar a aplicação 
+
+- *Pré-requisitos*: jdk do java 21 ou superior instalado e banco de dados PostgreSQL instalado.
+
+
+-*1.* Configurar as credenciais para conexão com banco de dados PostgreSQL.
+
+*1.1*. no arquivo *aplicattion.propreties* na pasta  *src/main/resources/* definir o *host,porta e nome do banco* (na linha spring.datasource.url) , definir *nome do usuario" (na linha spring.datasource.username) , definir *senha do usuário* (na linha spring.datasource.password).
+
+
+
+*2.* Para rodar a aplicação,pode-se utilizar uma extensão do vs code *Spring Boot Extesion Pack*
+
+![Texto alternativo](https://drive.google.com/file/d/1d5xfcwHAFwlpm_q7eZhM5n_VZFE5JWHD/view?usp=drivesdk "Título opcional")
+
+*2.1* para iniciar o app
+![Texto alternativo](https://drive.google.com/file/d/1dFi-ty5F4-vbgno8N92ThQFI9ivzrmPX/view?usp=drivesdk  "Título opcional")
+
+
+*3. Rotas da Aplicação:*
+-url base: localhost:8080
+
+-endpoint */api/eventos* 
+-enpoint  */api/sorteios* 
+-endpoint */api/usuarios*
+
+
+
+
+
+
