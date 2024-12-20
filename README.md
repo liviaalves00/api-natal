@@ -21,7 +21,7 @@
 
 -*1.* Configurar as credenciais para conexão com banco de dados PostgreSQL.
 
-*1.1*. no arquivo *aplicattion.propreties* na pasta  *src/main/resources/* definir o *host,porta e nome do banco* (na linha spring.datasource.url) , definir *nome do usuario" (na linha spring.datasource.username) , definir *senha do usuário* (na linha spring.datasource.password).
+*1.1*. no arquivo *aplicattion.propreties* na pasta  *src/main/resources/* definir o *host,porta e nome do banco* (na linha spring.datasource.url) , definir *nome do usuario* (na linha spring.datasource.username) , definir *senha do usuário* (na linha spring.datasource.password).
 
 
 
