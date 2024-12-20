@@ -29,6 +29,9 @@
 
 ![Texto alternativo](IMG_20241219_204105.jpg "Título opcional")
 
+<img src="IMG_20241219_204105.jpg" alt="Descrição da imagem" height="600">
+
+
 *2.1* para iniciar o app
 ![Texto alternativo](IMG_20241219_204434~2.jpg "Título opcional")
 
