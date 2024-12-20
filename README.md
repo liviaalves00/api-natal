@@ -30,14 +30,19 @@
 ![Texto alternativo](IMG_20241219_204105.jpg "Título opcional")
 
 *2.1* para iniciar o app
-![Texto alternativo](https://drive.google.com/file/d/1dFi-ty5F4-vbgno8N92ThQFI9ivzrmPX/view?usp=drivesdk  "Título opcional")
+![Texto alternativo](IMG_20241219_204434~2.jpg "Título opcional")
 
 
 *3. Rotas da Aplicação:*
+
+
+
 -url base: localhost:8080
 
 -endpoint */api/eventos* 
+
 -enpoint  */api/sorteios* 
+
 -endpoint */api/usuarios*
 
 
