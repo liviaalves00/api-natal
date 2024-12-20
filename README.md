@@ -27,7 +27,7 @@
 
 *2.* Para rodar a aplicação,pode-se utilizar uma extensão do vs code *Spring Boot Extesion Pack*
 
-![Texto alternativo](https://drive.google.com/file/d/1d5xfcwHAFwlpm_q7eZhM5n_VZFE5JWHD/view?usp=drivesdk "Título opcional")
+![Texto alternativo](IMG_20241219_204105.jpg "Título opcional")
 
 *2.1* para iniciar o app
 ![Texto alternativo](https://drive.google.com/file/d/1dFi-ty5F4-vbgno8N92ThQFI9ivzrmPX/view?usp=drivesdk  "Título opcional")
