@@ -1,20 +1,20 @@
 ## API-G|F Natal
 Dupla: Francisco David e Lívia
 
-## *REQUISITOS:*
+### *REQUISITOS:*
 ### A aplicação tem:
-- *abstração
-- *clean archtecture
-- *framework web
-- *injeção de depencia
-- *validação de dados
-- *crud das entidades
-- *rotas 
+- abstração
+- clean archtecture
+- framework web
+- injeção de depencia
+- validação de dados
+- crud das entidades
+- rotas 
 
 ### O que faltou fazer:
-- *deploy
-- *autenticação/autorização
-- *aplicar método shuffle no sorteio
+- deploy
+- autenticação/autorização
+- aplicar método shuffle no sorteio
 
 
 ### como executar a aplicação 
